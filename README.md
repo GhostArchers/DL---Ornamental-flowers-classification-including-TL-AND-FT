@@ -1,9 +1,8 @@
 Ornamental Flower Classification – Transfer Learning & Fine-Tuning
+This project focuses on classifying ornamental flowers using transfer learning and fine-tuning with ResNet50, VGG16, and EfficientNet. By leveraging pre-trained models, we improve classification accuracy while keeping training efficient.
 
-This project focuses on classifying ornamental flowers using transfer learning and fine-tuning. By leveraging pre-trained models, we improve classification accuracy while keeping training efficient. The implementation includes dataset preprocessing, model adaptation, and performance evaluation.
-
-What’s Inside?
-Transfer learning with pre-trained CNNs
-Fine-tuning selected layers for better results
-Optimized training and validation pipeline
-Performance evaluation with accuracy metrics
+Features
+Transfer Learning: Adapts ResNet50, VGG16, and EfficientNet for flower classification
+Fine-Tuning: Optimizes selected layers for improved performance
+Dataset Preprocessing: Handles image resizing, normalization, and augmentation
+Performance Evaluation: Uses accuracy, loss metrics, and validation checks
